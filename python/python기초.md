@@ -1,10 +1,6 @@
-[toc]
-
-
+[TOC]
 
 # Python기초
-
-
 
 ## 프로그래밍
 
@@ -21,8 +17,6 @@
   - 프로그래머
     
     - 프로그램을 만드는 사람 = 개발자
-
-
 
 - 언어 : 자신의 생각을 나타내고 전달하기 위해 사용하는 체계
   
@@ -47,8 +41,6 @@
         - interpreter - 사람친화 (python의 방식)
         
         - compiler - 기계친화
-
-
 
 ## Python
 
@@ -76,8 +68,6 @@
   
   - 객체지향 프로그램(object oriented programming)
 
-
-
 ## 개발환경
 
 - IDE(intergrated development environment)         
@@ -89,8 +79,6 @@
 - jupyter notebook 
   
   - 문법연습을 위한 도구 / 다양한 프로그래밍 언어 지원
-
-
 
 ## 코드작성법
 
@@ -132,10 +120,4 @@
     
     - 여러줄 주석 : '''  ''' ("""  """)사이에 작성
 
-
-
 # 
-
-
-
-
