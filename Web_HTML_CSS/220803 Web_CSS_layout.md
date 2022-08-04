@@ -108,9 +108,7 @@
             
             - 가로방향으로 큰 크기 순 (오른쪽 정렬)
           
-          - flex-direction: cloum reverse;
-            
-            - 세로방향으로 큰 크기 순
+          - flex-direction: column reverse;
         
         - flex-wrap
           
@@ -255,7 +253,3 @@
             - 0 : order 지정 안된 아이템 보다 앞으로 배치
             
             - 1~ : order 지정 안된 아이템 다음으로 배치
-    
-    
-
-
