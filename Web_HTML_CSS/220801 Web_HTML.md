@@ -50,6 +50,8 @@
       
       - sources, network, perfomance, application, security, audits 등 
 
+---
+
 ## HTML
 
 - HTML : hyper text markup language의 약자
@@ -71,6 +73,8 @@
     - 마크업 스타일 가이드(2 space)
     
     - 2칸 안띄어도 문제는 없지만 가독성을 위한 스타일 가이드
+  
+  ---
   
   ### 기본구조
   
@@ -201,6 +205,8 @@
         - HTML 문서에 대한 모델을 구성
         
         - HTML문서 내의 각 요소에 접근 / 수정에 필요한 프로퍼티와 메서드 제공
+  
+  ---
   
   ### 문서 구조화
   
