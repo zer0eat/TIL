@@ -164,6 +164,118 @@ ex) facebook
 
 ---
 
-## Vue2 vs Vue3
+## Vue2 instance
 
+- M V VM pattern
+  
+  - 소프트웨어 아키텍처 패턴의 일종
+  
+  - 마크업 언어로 구현하는 그래픽 사용자 인터페이스(view)의 개발을 Back-end(model)로부터 분리시켜 view가 특정한 모델 플랫폼에 종속되지 않도록 함
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-05-38-image.png" title="" alt="" width="582"><img src="Vue.js_1_assets/2022-11-02-00-05-57-image.png" title="" alt="" width="603">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-06-16-image.png" title="" alt="" width="601">
 
+---
+
+- el(element)
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-07-29-image.png" title="" alt="" width="544">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-08-00-image.png" title="" alt="" width="583">
+
+- data
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-08-30-image.png" title="" alt="" width="498">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-08-43-image.png" title="" alt="" width="556">
+
+- method
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-09-13-image.png" title="" alt="" width="571"><img src="Vue.js_1_assets/2022-11-02-00-09-25-image.png" title="" alt="" width="573">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-09-48-image.png" title="" alt="" width="574">
+
+---
+
+## Basic of Syntax
+
+- Template syntax
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-10-39-image.png" title="" alt="" width="585">
+
+- Template Interpolation
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-11-12-image.png" title="" alt="" width="579">
+
+- Raw HTML
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-12-02-image.png" title="" alt="" width="581">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-12-12-image.png" title="" alt="" width="584">
+
+---
+
+## Directives
+
+- 기본 구성
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-12-42-image.png" title="" alt="" width="532">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-12-52-image.png" title="" alt="" width="546">
+
+- v-text
+  
+  <img title="" src="Vue.js_1_assets/2022-11-02-00-13-17-image.png" alt="" width="565"><img title="" src="Vue.js_1_assets/2022-11-02-00-13-32-image.png" alt="" width="567">
+
+- v-show
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-13-58-image.png" title="" alt="" width="571"><img src="Vue.js_1_assets/2022-11-02-00-14-11-image.png" title="" alt="" width="570">
+
+- v-if
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-14-38-image.png" title="" alt="" width="577">
+
+- v-show vs v-if
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-15-03-image.png" title="" alt="" width="579">
+
+- v-for
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-15-47-image.png" title="" alt="" width="580"><img src="Vue.js_1_assets/2022-11-02-00-15-59-image.png" title="" alt="" width="581"><img src="Vue.js_1_assets/2022-11-02-00-16-11-image.png" title="" alt="" width="582">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-16-24-image.png" title="" alt="" width="581">
+
+- v-on
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-16-42-image.png" title="" alt="" width="581"><img src="Vue.js_1_assets/2022-11-02-00-16-52-image.png" title="" alt="" width="579">
+
+- v-bind
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-17-11-image.png" title="" alt="" width="579">
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-17-20-image.png" title="" alt="" width="583">
+
+- v-model
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-17-35-image.png" title="" alt="" width="582">
+
+---
+
+## Vue advanced
+
+- computed
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-18-13-image.png" title="" alt="" width="578">
+
+- method vs computed
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-18-29-image.png" title="" alt="" width="455">
+
+- watch
+  
+  <img src="Vue.js_1_assets/2022-11-02-00-18-55-image.png" title="" alt="" width="584"><img src="Vue.js_1_assets/2022-11-02-00-19-06-image.png" title="" alt="" width="595">
+
+- filters
+  
+  ![](Vue.js_1_assets/2022-11-02-00-19-34-image.png)
